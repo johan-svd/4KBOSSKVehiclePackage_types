@@ -1,0 +1,35 @@
+{
+    "m_Version": 13,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "Money_Euro1",
+		"Money_Euro2",
+		"Money_Euro5",
+		"Money_Euro10",
+		"Money_Euro20",
+		"Money_Euro50",
+		"Money_Euro100",
+		"Money_Euro200",
+		"Money_Euro500"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        "Cars",
+        "Vehicle_Parts:3",
+		"4kboss_sport",
+		"4kboss_stock",
+		"4kboss_truck",
+		"4kboss_sport_parts:3",
+		"4kboss_stock_parts:3",
+		"4kboss_truck_parts:3",
+        "Batteries:3"
+    ],
+    "Items": {}
+}
